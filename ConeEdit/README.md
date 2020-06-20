@@ -7,6 +7,6 @@ The File Structure is:
  --ConeEdit2.rar<br>
  --ConeEdit3.rar<br>
  --ConeEdit4.rar<br>
- <b>--Dependecies:</b>
+ <b>--Dependecies:</b><br>
  ---ConeEdit5.rar<br>
  ---ConeEdit6.rar<br>
