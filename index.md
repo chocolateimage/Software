@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Find software on my site
 
-You can use the [editor on GitHub](https://github.com/LukasTanner/Software/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+print("I can make software in Visual Studio and Visual Studio Code")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Don't trust some software because they may make some damage to your computer.
 
-### Jekyll Themes
+### Software that i made
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukasTanner/Software/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[LukasCleaner](https://github.com/LukasTanner/Software/blob/master/LukasCleanerSetup.exe)
+[Boot Command Prompt Exploit Runner](https://github.com/LukasTanner/Software/blob/master/BCPE_Runner.exe)
+[Weird PC Cleaner Pro](https://github.com/LukasTanner/Software/blob/master/PCCleanerPro.exe)
+[Weird Pc Anti Junk in German](https://github.com/LukasTanner/Software/blob/master/PcAntiJunk.exe)
+[CPP Coder](https://github.com/LukasTanner/Software/blob/master/CppCoder.zip)
